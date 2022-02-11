@@ -21,7 +21,7 @@ The Application
 ## Access the website
 Need the latest browser to be able to View
 
-Follow this link https://layersony.github.io/birthday-akan-name/
+Follow this link https://yeboahd24.github.io/Akan-names/
 
 It is hosted by github.
 
